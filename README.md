@@ -24,4 +24,4 @@
 ### Решение
 Диаграмма классов:
 
-![image](https://user-images.githubusercontent.com/107203406/234573507-a8ad3a19-4b39-4690-b753-0797f0fabe93.png)
+![diagram_class](https://user-images.githubusercontent.com/107203406/234578366-145a70d7-472d-4e6a-be5e-3d3962278114.jpg)
